@@ -1,6 +1,8 @@
 # NLP
 ### This directory is to record my notes, understanding and progress of the curriculum @ https://github.com/llSourcell/Learn-Natural-Language-Processing-Curriculum
 
+https://www.youtube.com/watch?v=GazFsfcijXQ . 
+
 ### Learn-Natural-Language-Processing-Curriculum
 This is the curriculum for "Learn Natural Language Processing" by Siraj Raval on Youtube
 
@@ -37,6 +39,12 @@ Ch 1-2 of Speech and Language Processing 3rd ed, slides .
 Project:
 Look at 1-1 to 3-4 to learn NLTK https://github.com/hb20007/hands-on-nltk-tutorial . 
 Then use NLTK to perform stemming, lemmatiziation, tokenization, stopword removal on a dataset of your choice . 
+
+#### My Notes:  
+Videos 1 to 2.5 at https://www.youtube.com/watch?v=hyT-BzLyVdU&list=PLDcmCgguL9rxTEz1Rsy6x5NhlBjI8z3Gz . 
+Reading assignment first 2 chapters (Chapter 2 and 3) .   
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 Week 2 - Language Models & Lexicons (pre-deep learning)
