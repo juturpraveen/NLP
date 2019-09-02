@@ -1,4 +1,5 @@
 # NLP
+### This directory is to record my notes, understanding and progress of the curriculum @ https://github.com/llSourcell/Learn-Natural-Language-Processing-Curriculum
 
 Learn-Natural-Language-Processing-Curriculum
 This is the curriculum for "Learn Natural Language Processing" by Siraj Raval on Youtube
