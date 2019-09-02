@@ -17,13 +17,14 @@ Course Length
 Tools Used
 Python, PyTorch, NLTK
 
-##### Prerequisites
+#### Prerequisites
 Learn Python https://www.edx.org/course/introduction-python-data-science-2
 Statistics http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf
 Probability https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
 Calculus http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf
 Linear Algebra https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf
-Week 1 - Language Terminology + preprocessing techniques
+
+#### Week 1 - Language Terminology + preprocessing techniques
 Description:
 Overview of NLP (Pragmatics, Semantics, Syntax, Morphology)
 Text preprocessing (stemmings, lemmatization, tokenization, stopword removal)
@@ -35,6 +36,8 @@ Ch 1-2 of Speech and Language Processing 3rd ed, slides
 Project:
 Look at 1-1 to 3-4 to learn NLTK https://github.com/hb20007/hands-on-nltk-tutorial
 Then use NLTK to perform stemming, lemmatiziation, tokenization, stopword removal on a dataset of your choice
+
+------------------------------------------------------------------------------------------------------------------------------
 Week 2 - Language Models & Lexicons (pre-deep learning)
 Description:
 Lexicons
