@@ -1,16 +1,13 @@
 # NLP
 ### This directory is to record my notes, understanding and progress of the curriculum @ https://github.com/llSourcell/Learn-Natural-Language-Processing-Curriculum
 
-Learn-Natural-Language-Processing-Curriculum
+### Learn-Natural-Language-Processing-Curriculum
 This is the curriculum for "Learn Natural Language Processing" by Siraj Raval on Youtube
 
-Course Objective
+### Course Objective
 This is the Curriculum for this video on Learn Natural Language Processing by Siraj Raval on Youtube. After completing this course, start your own startup, do consulting work, or find a full-time job related to NLP. Remember to believe in your ability to learn. You can learn NLP , you will learn NLP, and if you stick to it, eventually you will master it.
 
-Find a study buddy
-Join the #NLP_curriculum channel in our Slack channel to find one http://wizards.herokuapp.com
-
-Components each week
+### Components each week
 Video Lectures
 Reading Assignments
 Project(s)
@@ -19,7 +16,8 @@ Course Length
 2-3 Hours of Study per Day
 Tools Used
 Python, PyTorch, NLTK
-Prerequisites
+
+##### Prerequisites
 Learn Python https://www.edx.org/course/introduction-python-data-science-2
 Statistics http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf
 Probability https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
