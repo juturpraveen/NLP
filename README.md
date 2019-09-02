@@ -41,8 +41,8 @@ Look at 1-1 to 3-4 to learn NLTK https://github.com/hb20007/hands-on-nltk-tutori
 Then use NLTK to perform stemming, lemmatiziation, tokenization, stopword removal on a dataset of your choice . 
 
 #### My Notes:  
-Videos 1 to 2.5 at https://www.youtube.com/watch?v=hyT-BzLyVdU&list=PLDcmCgguL9rxTEz1Rsy6x5NhlBjI8z3Gz . 
-Reading assignment first 2 chapters (Chapter 2 and 3) .   
+- Videos 1 to 2.5 at https://www.youtube.com/watch?v=hyT-BzLyVdU&list=PLDcmCgguL9rxTEz1Rsy6x5NhlBjI8z3Gz .  
+- Reading assignment first 2 chapters (Chapter 2 and 3) .   
 
 
 
