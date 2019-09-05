@@ -27,7 +27,7 @@ Probability :<br/>https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff3
 Calculus:<br/> http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf
 Linear Algebra:<br/> https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf
 
-#### Week 1 - Language Terminology + preprocessing techniques .  
+#### Week 1 - Language Terminology + preprocessing techniques 
 Description:  
 Overview of NLP (Pragmatics, Semantics, Syntax, Morphology) . 
 Text preprocessing (stemmings, lemmatization, tokenization, stopword removal) . 
@@ -47,26 +47,27 @@ Then use NLTK to perform stemming, lemmatiziation, tokenization, stopword remova
 
 
 ------------------------------------------------------------------------------------------------------------------------------
-Week 2 - Language Models & Lexicons (pre-deep learning)
-Description:
-Lexicons
-Pre-deep learning Statistical Language model pre-deep learning ( HMM, Topic Modeling w LDA)
-Video Lectures:
+#### Week 2 - Language Models & Lexicons (pre-deep learning)
+Description:  
+Lexicons  
+Pre-deep learning Statistical Language model pre-deep learning ( HMM, Topic Modeling w LDA)  
+Video Lectures:  
 https://courses.cs.washington.edu/courses/csep517/17sp/ lectures 2-6
 Reading Assignments:
 4,6,7,8,9,10 from the UWash course
 Extra
 LDA blog post: https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d
 Project
-https://github.com/TreB1eN/HiddenMarkovModel_Pytorch Build Hidden Markov Model for Weather Prediction in PyTorch
-Week 3 - Word Embeddings (Word, sentence, and document)
+https://github.com/TreB1eN/HiddenMarkovModel_Pytorch Build Hidden Markov Model for Weather Prediction in PyTorch   
+
+#### Week 3 - Word Embeddings (Word, sentence, and document)
 Video lectures:
 http://web.stanford.edu/class/cs224n/index.html#schedule lectures 1-5
 Reading Assignments
 Suggested readings from course
 Project
 3 Assignments Visualize and Implement Word2Vec, Create dependency parser all in PyTorch (they are assigments from the stanford course)
-Week 4-5 - Deep Sequence Modeling
+#### Week 4-5 - Deep Sequence Modeling
 Description:
 Sequence to Sequence Models (translation, summarization, question answering)
 Attention based models
@@ -78,7 +79,7 @@ Read this on Deep Semantic Similarity Models https://kishorepv.github.io/DSSM/
 Ch 10 Deep Learning Book on Sequence Modeling http://www.deeplearningbook.org/contents/rnn.html
 Project
 3 Assignments, create a translator and a summarizer. All seq2seq models. In pytorch.
-Week 6 - Dialogue Systems
+#### Week 6 - Dialogue Systems
 Description
 Speech Recognition
 Dialog Managers, NLU
@@ -88,7 +89,7 @@ Reading Assignments
 Ch 24 of this book https://web.stanford.edu/~jurafsky/slp3/24.pdf
 Project
 Create a dialogue system using Pytorch https://github.com/ywk991112/pytorch-chatbot and a task oriented dialogue system using DialogFlow to order food
-Week 7 - Transfer Learning
+#### Week 7 - Transfer Learning
 Video Lectures
 My videos on BERT and GPT-2, how to build biomedical startup:
 https://www.youtube.com/watch?v=bDxFvr1gpSU
@@ -101,7 +102,7 @@ https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html
 http://jalammar.github.io/illustrated-bert/
 Project
 Play with this https://github.com/huggingface/pytorch-pretrained-BERT#examples pick 2 models, use it for one of 9 downstream tasks, compare their results.
-Week 8 - Future NLP
+#### Week 8 - Future NLP
 Description
 Visual Semantics
 Deep Reinforcement Learning
