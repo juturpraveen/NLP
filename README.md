@@ -31,12 +31,12 @@ Linear Algebra:<br/> https://www.souravsengupta.com/cds2016/lectures/Savov_Notes
 Description:  
 Overview of NLP (Pragmatics, Semantics, Syntax, Morphology) . 
 Text preprocessing (stemmings, lemmatization, tokenization, stopword removal) . 
-Video Lectures  
+- Video Lectures    
 https://web.stanford.edu/~jurafsky/slp3/ videos 1-2.5 . 
 https://www.youtube.com/watch?v=hyT-BzLyVdU&list=PLDcmCgguL9rxTEz1Rsy6x5NhlBjI8z3Gz . 
-Reading Assignments:  
+- Reading Assignments:  
 Ch 1-2 of Speech and Language Processing 3rd ed, slides . 
-Project:
+- Project  
 Look at 1-1 to 3-4 to learn NLTK https://github.com/hb20007/hands-on-nltk-tutorial . 
 Then use NLTK to perform stemming, lemmatiziation, tokenization, stopword removal on a dataset of your choice . 
 
