@@ -7,9 +7,9 @@ Before getting into how the prediction happens, it is required to digest followi
 That means in order to predict tomorrows weather, all we need to know is todays weather.
 - Output dependence: Probability of an observation occuring at a state is entirely dependent only on the current state. That means probabilty of seasonal pollen index(SPI) having a certain value on a given day is only dependent on that particular(given day) day's weather.
 
-Hidden Markov Model is represented by λ(A, B, π) where A, B and π are model parameters.
+Hidden Markov Model is represented as λ(A, B, ∏) where A, B and π are model parameters.
 
-#### Hidden Markov Model Parameters : λ(A, B, π)
+#### Hidden Markov Model Parameters : 
 - A: Transition probabilities
 - B: Emission probabilities
 -  π: Initial distribution or initial state probabilities
