@@ -26,4 +26,5 @@ Example: P(SPI = High | Weather = Hot)
 
 ##### Initial distribution or Initial state probabilities (∏)
 The probability that Markov chain will start in certain state. Since we have 2 possible states, initial probabilities can be
+
 ∏ = [ ½, ½ ]
