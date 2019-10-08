@@ -23,3 +23,7 @@ Example: P(Tomorrow’s SPI = High | Today’s SPI = Low)
 This is the probabilty of an observation happening or occuring at a give state. Lets say weather could be [Hot, Cold, Rainy]. Emission probabiity tells us the probability of SPI = High on day with Weather = Hot. This is usually represented by a matrix of size [N, T] where N is number of states SPI can take and T is the number of observations.
 
 Example: P(SPI = High | Weather = Hot)
+
+##### Initial distribution or Initial state probabilities (∏)
+The probability that Markov chain will start in certain state. Since we have 2 possible states, initial probabilities can be
+∏ = [ ½, ½ ]
