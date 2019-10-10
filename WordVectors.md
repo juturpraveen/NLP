@@ -29,7 +29,7 @@ Ex: 'hotel' = [0,0,0......1.....0]
 ### Singular Value Decomposition methods
 ### Iteration based methods - word2vec
 
-#### Distributional Hypothesis: Words with similar contexts or context distributions have similar meanings.
+###### Distributional Hypothesis: Words with similar contexts or context distributions have similar meanings.
 
 #### word2vec includes the following:
 - 2 algorithms:
