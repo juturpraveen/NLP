@@ -35,13 +35,11 @@ Epoch 9/10
 Epoch 10/10
  - 1s - loss: 0.0010 - accuracy: 1.0000
 (1, 25639)
-PREDS shape: (1, 1)
-PREDS: [[0.51949275]]
+
+
 Review: [This is a great movie.]
-Sentiment: POSITIVE (51.949%)
-(1, 25639)
-PREDS shape: (1, 1)
-PREDS: [[0.3853152]]
+ - Sentiment: POSITIVE (51.949%)
+
 Review: [This movies is not good, boring.]
-Sentiment: NEGATIVE (61.468%)
-(base) praveenjutur@Praveens-iMac 100 % 
+ - Sentiment: NEGATIVE (61.468%)
+
